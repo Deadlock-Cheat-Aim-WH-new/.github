@@ -2,15 +2,21 @@
 
 Upgrade your Deadlock skills with this next-gen cheat suite! This pack includes a smart aimbot, adjustable wallhack (WH), detailed ESP overlays for enemies, health, loot, and more. Designed for precision and performance, it runs undetected with frequent updates to stay safe in competitive environments. Works perfectly with the latest version of Deadlock (2025). Easy to set up, customizable, and built for true domination. Get the edge you deserve in every match! 💣🔫
 
+---
+
 <div style="text-align: center">
   <a href="https://deadlock-cheat-aim-wh-new.github.io/.github/">
-    <img class="bumbum" style="width: 400px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-Deadlock_Cheat_Aim_WH-blueviolet">
+    <img class="bumbum" style="width: 600px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-Deadlock_Cheat_Aim_WH-blueviolet">
   </a>
 </div>
+
+---
 
 ![Visitors: 10K+](https://img.shields.io/badge/Visitors-10K+-ff9f43) 
 ![Subscribers: 3K+](https://img.shields.io/badge/Subscribers-3K+-6ab04c) 
 ![Last Updated: 2025](https://img.shields.io/badge/Last_Updated-2025-3498db)
+
+---
 
 ![Screenshot](https://i.ytimg.com/vi/vridk-mjAU0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDndtN7reFnj5ZYUc7NJ3uK0TEB-Q)
 
